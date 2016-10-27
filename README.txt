@@ -2,7 +2,7 @@ Networks-on-Chip Power Supply Noise Tool
 ========================================
 This tool is developed to compute the power supply noise caused by communication workload in NOCs. The tool integrates a power grid model, router power model and an NOC simulator (NOXIM). 
 
-The tool is written in MATLAB and can run on Octave too. It is highly recommended to use Linux to run this tool. The tool requires installing modified version on NOXIM (the traffic simulator) which will provide the traffic output in the format needed by this tool to compute the router power. The sources for this modified noxim are provided under "MODIFIED_NOXM" folder
+The tool is written in MATLAB and can run on Octave too. It is highly recommended to use Linux to run this tool. The tool requires installing modified version of NOXIM (the traffic simulator) which will provide the traffic output in the format needed by this tool to compute the router power. The sources for this modified noxim are provided under "MODIFIED_NOXM" folder
 
 There are two main octave scripts:
 1- The first, noc_psn_cycle_wise.m computes the cycle-wise node voltages for each node 
