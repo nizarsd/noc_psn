@@ -29,3 +29,24 @@ Dahir, Nizar, Terrence Mak, and Alex Yakovlev. "Communication centric on-chip po
 
 Nizar Dahir, Terrence Mak, Fei Xia, and Alex Yakovlev. 2012. Minimizing power supply noise through harmonic mappings in networks-on-chip. In Proceedings of the eighth IEEE/ACM/IFIP international conference on Hardware/software codesign and system synthesis (CODES+ISSS '12). ACM, New York, NY, USA, 113-122. DOI=http://dx.doi.org/10.1145/2380445.2380468
 
+P. Basu, R. JayashankaraShridevi, K. Chakraborty and S. Roy, "PRADA: Combating voltage noise in the NoC power supply through flow-control and routing algorithms," 2016 Design, Automation & Test in Europe Conference & Exhibition (DATE), Dresden, 2016, pp. 1461-1464.
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7459540&isnumber=7459269
+
+
+Authors:
+=========================
+
+This tool is developed at the University of Newcastle (UK) by the following team:
+
+- Nizar Dahir, PhD (Currently at the University of York)
+  Email: nizar.darhii@york.ac.uk
+
+- Terrence Mak, PhD Currently at the University of Southampton)
+  Email: tmak@ecs.soton.ac.uk
+
+- Fei Xia, PhD
+  Email: fei.xia@ncl.ac.uk
+
+- Professor Alex Yakovlev
+  Email: alex.yakovlev@ncl.ac.uk
+
