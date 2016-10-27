@@ -38,10 +38,12 @@ Authors:
 
 This tool is developed at the University of Newcastle (UK) by the following team:
 
-- Nizar Dahir, PhD (Currently at the University of York)
-  Email: nizar.darhii@york.ac.uk
+- Nizar Dahir, PhD 
+  (Currently at the University of York)
+  Email: nizar.darhir@york.ac.uk
 
-- Terrence Mak, PhD Currently at the University of Southampton)
+- Terrence Mak, PhD 
+  (Currently at the University of Southampton)
   Email: tmak@ecs.soton.ac.uk
 
 - Fei Xia, PhD
